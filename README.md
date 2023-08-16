@@ -1,7 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/rupali-codes">
+    <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
+  </a>
+  
+   <a href="mailto:rupali7487@gmail.com">
+    <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
+  </a>
+ 
+</p>
 
 <h1 align="center">Hey 👋, I'm Roneet Yadav</h1>
 <h3 align="center">"Coding the Future: Navigating the Developer's Odyssey"</h3>
