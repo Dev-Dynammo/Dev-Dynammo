@@ -47,8 +47,7 @@
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
 <br><br><br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-x-innovate&show_icons=true&locale=en&layout=compact" alt="dev-x-innovate" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-x-innovate&show_icons=true&locale=en" alt="dev-x-innovate" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-x-innovate&" alt="dev-x-innovate" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-X-Innovate&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dev-X-Innovate's Github Stats">
+<br><br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-X-Innovate&theme=highcontrast&border_radius=5.2)](https://git.io/streak-stats)
