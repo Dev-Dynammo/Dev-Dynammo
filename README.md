@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Roneet Yadav</h1>
-<h3 align="center">"Coding the Future: Navigating the Developer's Odyssey"</h3><br>
+<h3 align="center">"Coding the Future: Illuminate, Innovate And Code the Solutions in Lines of Logic"</h3><br>
 
 
 <img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
