@@ -2,10 +2,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div><br>
 <p align="center"> 
- <a href="https://www.linkedin.com/in/roneet-yadav/">
-    <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
-  </a>
-  &nbsp;&nbsp;
+
+<a href="https://twitter.com/Roneet_04">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/roneet-yadav/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCF1Hnkm12lN265W6dB8aL7g"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/channel/UCF1Hnkm12lN265W6dB8aL7g" /><br>
+
   
    <a href="mailto:roneet4093@gmail.com">
     <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
