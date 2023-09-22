@@ -58,4 +58,4 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dev-X-Innovate&theme=highcontrast&border_radius=5.2)](https://git.io/streak-stats)
 <br><br>
- ![Roneet Yadav's GitHub | Stats](https://stats.quine.sh/Dev-X-Innovate/github?theme=dark)
+ ![Dev-X-Innovate's GitHub | Stats](https://stats.quine.sh/Dev-X-Innovate/github?theme=dark)
