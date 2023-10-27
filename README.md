@@ -59,3 +59,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dev-X-Innovate&theme=highcontrast&border_radius=5.2)](https://git.io/streak-stats)
 <br><br>
  ![Dev-X-Innovate's GitHub | Stats](https://stats.quine.sh/Dev-X-Innovate/github?theme=dark)
+
+ [![An image of @devxinnovate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devxinnovate)](https://holopin.io/@devxinnovate)
