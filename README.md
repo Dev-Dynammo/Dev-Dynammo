@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./RONEET YADAV.png" />
+  <img src="./pic.png" />
 </div><br>
 <p align="center"> 
 
