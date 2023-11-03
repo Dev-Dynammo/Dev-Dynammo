@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Cover.png/" />
+  <img src="Coverr.png/" />
 </div><br>
 <p align="center"> 
 
