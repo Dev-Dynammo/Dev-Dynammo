@@ -60,11 +60,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-x-innovate&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="dev-x-innovate" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-X-Innovate&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="Dev-X-Innovate's Github Stats">
 
-
 <br>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-X-Innovate&theme=highcontrast&border_radius=5.2)](https://git.io/streak-stats)
-<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-X-Innovate&theme=dark&border_radius=10)](https://git.io/streak-stats)
+
+  <br>
+
  ![Dev-X-Innovate's GitHub | Stats](https://stats.quine.sh/Dev-X-Innovate/github?theme=dark)
 
  [![An image of @devxinnovate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devxinnovate)](https://holopin.io/@devxinnovate)
