@@ -2,7 +2,7 @@
  <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>&nbsp;  I'm <a href=# target="_blank"> Roneet Yadav, </a> Nice <br>&nbsp; to see you. 🤗 </h1> 
 
 <div id="header" align="center">
-  <img src="Coverr.png/" />
+  <img src="hero.jpg/" />
 </div><br>
 <p align="center"> 
 
